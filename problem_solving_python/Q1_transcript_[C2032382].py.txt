@@ -1,0 +1,16 @@
+Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:43:08) [MSC v.1926 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+>>>from Q1_C2032382 import *
+>>>random.seed(57)
+>>>
+>>>game(70, 30)
+(11, 5)
+>>>
+>>>winProbability(70, 30, 10000)
+0,979
+>>>
+>>>abilities()
+[(60, 20), (100, 55), (50, 40), (20, 70), (95, 85)]
+>>>
+>>>
